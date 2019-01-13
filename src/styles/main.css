@@ -1,0 +1,34 @@
+.table thead tr th, .table tbody tr td, .table thead th{
+    text-align: center
+}
+
+#logo {
+    height: 48px;
+    width: 48px;    
+}
+
+#leaderboard_table, #user_register, #search{
+    width: 40%;
+    margin: 0 auto
+}
+
+#userlist_display {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.navbar {
+    margin-bottom: 3rem;
+}
+
+#issue_table {
+    width: 90%;
+    margin: 0 auto
+}
+
+#note {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+}
+
